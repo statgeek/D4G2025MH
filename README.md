@@ -1,7 +1,7 @@
 # D4G2025MH
 Data cleaning for data for good hackathon
 
-* file for importing and cleaning data in R started
+* Plan file for importing and cleaning data in R (JUST TO START)
 
 * link with linked file and summarize by ID
 * duration of calls (sum)
